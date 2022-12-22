@@ -1,0 +1,15 @@
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.csproj.AssemblyReference.cache
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.AssemblyInfoInputs.cache
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.AssemblyInfo.cs
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.csproj.CoreCompileInputs.cache
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\bin\Debug\net6.0\PrimeProject.exe
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\bin\Debug\net6.0\PrimeProject.deps.json
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\bin\Debug\net6.0\PrimeProject.runtimeconfig.json
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\bin\Debug\net6.0\PrimeProject.dll
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\bin\Debug\net6.0\PrimeProject.pdb
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.dll
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\refint\PrimeProject.dll
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.pdb
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\PrimeProject.genruntimeconfig.cache
+C:\Users\Emara\source\repos\PrimeProject\PrimeProject\obj\Debug\net6.0\ref\PrimeProject.dll
